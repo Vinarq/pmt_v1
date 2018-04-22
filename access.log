@@ -1,0 +1,7 @@
+127.0.0.1 - - [22/Apr/2018:00:30:27] "GET /tt/tt HTTP/1.1" 200 13 "" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0"
+127.0.0.1 - - [22/Apr/2018:00:30:27] "GET /favicon.ico HTTP/1.1" 500 1767 "" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0"
+127.0.0.1 - - [22/Apr/2018:00:30:27] "GET /favicon.ico HTTP/1.1" 500 1767 "" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0"
+127.0.0.1 - - [22/Apr/2018:00:30:39] "GET /tt HTTP/1.1" 404 1515 "" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0"
+127.0.0.1 - - [22/Apr/2018:00:31:39] "GET /tt/tt HTTP/1.1" 200 13 "" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0"
+127.0.0.1 - - [22/Apr/2018:00:32:35] "GET / HTTP/1.1" 404 1511 "" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0"
+127.0.0.1 - - [22/Apr/2018:13:49:35] "GET / HTTP/1.1" 404 1511 "" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0"
