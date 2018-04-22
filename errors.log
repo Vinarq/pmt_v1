@@ -2,3 +2,155 @@
 [22/Apr/2018:15:50:50] ENGINE Started monitor thread 'Autoreloader'.
 [22/Apr/2018:15:50:50] ENGINE Serving on http://127.0.0.1:8090
 [22/Apr/2018:15:50:50] ENGINE Bus STARTED
+[22/Apr/2018:21:25:51] ENGINE Bus STOPPING
+[22/Apr/2018:21:25:51] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8090)) shut down
+[22/Apr/2018:21:25:51] ENGINE Stopped thread 'Autoreloader'.
+[22/Apr/2018:21:25:51] ENGINE Bus STOPPED
+[22/Apr/2018:21:25:51] ENGINE Bus EXITING
+[22/Apr/2018:21:25:51] ENGINE Bus EXITED
+[22/Apr/2018:21:26:35] ENGINE Bus STARTING
+[22/Apr/2018:21:26:35] ENGINE Started monitor thread 'Autoreloader'.
+[22/Apr/2018:21:26:36] ENGINE Serving on http://127.0.0.1:8090
+[22/Apr/2018:21:26:36] ENGINE Bus STARTED
+[22/Apr/2018:21:51:25] ENGINE Restarting because site.conf changed.
+[22/Apr/2018:21:51:25] ENGINE Stopped thread 'Autoreloader'.
+[22/Apr/2018:21:51:25] ENGINE Bus STOPPING
+[22/Apr/2018:21:51:25] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8090)) shut down
+[22/Apr/2018:21:51:25] ENGINE Bus STOPPED
+[22/Apr/2018:21:51:25] ENGINE Bus STOPPING
+[22/Apr/2018:21:51:25] ENGINE Bus EXITING
+[22/Apr/2018:21:51:25] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8090)) already shut down
+[22/Apr/2018:21:51:25] ENGINE Bus EXITED
+[22/Apr/2018:21:51:25] ENGINE No thread running for None.
+[22/Apr/2018:21:51:25] ENGINE Bus STOPPED
+[22/Apr/2018:21:51:25] ENGINE Bus EXITING
+[22/Apr/2018:21:51:25] ENGINE Bus EXITED
+[22/Apr/2018:21:59:03] ENGINE Bus STARTING
+[22/Apr/2018:21:59:03] ENGINE Started monitor thread 'Autoreloader'.
+[22/Apr/2018:21:59:03] ENGINE Serving on http://127.0.0.1:8090
+[22/Apr/2018:21:59:03] ENGINE Bus STARTED
+[22/Apr/2018:22:07:37] ENGINE Bus STOPPING
+[22/Apr/2018:22:07:37] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8090)) shut down
+[22/Apr/2018:22:07:37] ENGINE Stopped thread 'Autoreloader'.
+[22/Apr/2018:22:07:37] ENGINE Bus STOPPED
+[22/Apr/2018:22:07:37] ENGINE Bus EXITING
+[22/Apr/2018:22:07:37] ENGINE Bus EXITED
+[22/Apr/2018:22:07:42] ENGINE Bus STARTING
+[22/Apr/2018:22:07:42] ENGINE Started monitor thread 'Autoreloader'.
+[22/Apr/2018:22:07:42] ENGINE Serving on http://127.0.0.1:8090
+[22/Apr/2018:22:07:42] ENGINE Bus STARTED
+[22/Apr/2018:22:10:47] ENGINE Restarting because /home/markez/projects/pm/pmt_v1/controllers/default.py changed.
+[22/Apr/2018:22:10:47] ENGINE Stopped thread 'Autoreloader'.
+[22/Apr/2018:22:10:47] ENGINE Bus STOPPING
+[22/Apr/2018:22:10:47] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8090)) shut down
+[22/Apr/2018:22:10:47] ENGINE Bus STOPPING
+[22/Apr/2018:22:10:47] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8090)) already shut down
+[22/Apr/2018:22:10:47] ENGINE No thread running for None.
+[22/Apr/2018:22:10:47] ENGINE Bus STOPPED
+[22/Apr/2018:22:10:47] ENGINE Bus EXITING
+[22/Apr/2018:22:10:47] ENGINE Bus EXITED
+[22/Apr/2018:22:12:29] ENGINE Bus STARTING
+[22/Apr/2018:22:12:29] ENGINE Started monitor thread 'Autoreloader'.
+[22/Apr/2018:22:12:29] ENGINE Serving on http://127.0.0.1:8090
+[22/Apr/2018:22:12:29] ENGINE Bus STARTED
+[22/Apr/2018:22:14:36] ENGINE Bus STOPPING
+[22/Apr/2018:22:14:36] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8090)) shut down
+[22/Apr/2018:22:14:36] ENGINE Stopped thread 'Autoreloader'.
+[22/Apr/2018:22:14:36] ENGINE Bus STOPPED
+[22/Apr/2018:22:14:36] ENGINE Bus EXITING
+[22/Apr/2018:22:14:36] ENGINE Bus EXITED
+[22/Apr/2018:22:14:40] ENGINE Bus STARTING
+[22/Apr/2018:22:14:40] ENGINE Started monitor thread 'Autoreloader'.
+[22/Apr/2018:22:14:40] ENGINE Serving on http://127.0.0.1:8090
+[22/Apr/2018:22:14:40] ENGINE Bus STARTED
+[22/Apr/2018:22:14:52] ENGINE Restarting because site.conf changed.
+[22/Apr/2018:22:14:52] ENGINE Stopped thread 'Autoreloader'.
+[22/Apr/2018:22:14:52] ENGINE Bus STOPPING
+[22/Apr/2018:22:14:52] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8090)) shut down
+[22/Apr/2018:22:14:52] ENGINE Bus STOPPING
+[22/Apr/2018:22:14:52] ENGINE Bus STOPPED
+[22/Apr/2018:22:14:52] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8090)) already shut down
+[22/Apr/2018:22:14:52] ENGINE Bus EXITING
+[22/Apr/2018:22:14:52] ENGINE No thread running for None.
+[22/Apr/2018:22:14:52] ENGINE Bus EXITED
+[22/Apr/2018:22:14:52] ENGINE Bus STOPPED
+[22/Apr/2018:22:14:52] ENGINE Bus EXITING
+[22/Apr/2018:22:14:52] ENGINE Bus EXITED
+[22/Apr/2018:22:14:57] ENGINE Bus STARTING
+[22/Apr/2018:22:14:57] ENGINE Started monitor thread 'Autoreloader'.
+[22/Apr/2018:22:14:57] ENGINE Serving on http://127.0.0.1:8090
+[22/Apr/2018:22:14:57] ENGINE Bus STARTED
+[22/Apr/2018:22:15:08] ENGINE Bus STOPPING
+[22/Apr/2018:22:15:08] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8090)) shut down
+[22/Apr/2018:22:15:08] ENGINE Stopped thread 'Autoreloader'.
+[22/Apr/2018:22:15:08] ENGINE Bus STOPPED
+[22/Apr/2018:22:15:08] ENGINE Bus EXITING
+[22/Apr/2018:22:15:08] ENGINE Bus EXITED
+[22/Apr/2018:22:15:13] ENGINE Bus STARTING
+[22/Apr/2018:22:15:13] ENGINE Started monitor thread 'Autoreloader'.
+[22/Apr/2018:22:15:13] ENGINE Serving on http://127.0.0.1:8090
+[22/Apr/2018:22:15:13] ENGINE Bus STARTED
+[22/Apr/2018:22:53:30] ENGINE Restarting because site.conf changed.
+[22/Apr/2018:22:53:30] ENGINE Stopped thread 'Autoreloader'.
+[22/Apr/2018:22:53:30] ENGINE Bus STOPPING
+[22/Apr/2018:22:53:30] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8090)) shut down
+[22/Apr/2018:22:53:30] ENGINE Bus STOPPING
+[22/Apr/2018:22:53:30] ENGINE Bus STOPPED
+[22/Apr/2018:22:53:30] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8090)) already shut down
+[22/Apr/2018:22:53:30] ENGINE Bus EXITING
+[22/Apr/2018:22:53:30] ENGINE No thread running for None.
+[22/Apr/2018:22:53:30] ENGINE Bus EXITED
+[22/Apr/2018:22:53:30] ENGINE Bus STOPPED
+[22/Apr/2018:22:53:30] ENGINE Bus EXITING
+[22/Apr/2018:22:53:30] ENGINE Bus EXITED
+[22/Apr/2018:23:04:35] ENGINE Bus STARTING
+[22/Apr/2018:23:04:35] ENGINE Started monitor thread 'Autoreloader'.
+[22/Apr/2018:23:04:35] ENGINE Serving on http://127.0.0.1:8090
+[22/Apr/2018:23:04:35] ENGINE Bus STARTED
+[22/Apr/2018:23:32:58] ENGINE Restarting because /home/markez/projects/pm/pmt_v1/controllers/default.py changed.
+[22/Apr/2018:23:32:58] ENGINE Stopped thread 'Autoreloader'.
+[22/Apr/2018:23:32:58] ENGINE Bus STOPPING
+[22/Apr/2018:23:32:58] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8090)) shut down
+[22/Apr/2018:23:32:58] ENGINE Bus STOPPING
+[22/Apr/2018:23:32:58] ENGINE Bus STOPPED
+[22/Apr/2018:23:32:58] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8090)) already shut down
+[22/Apr/2018:23:32:58] ENGINE Bus EXITING
+[22/Apr/2018:23:32:58] ENGINE No thread running for None.
+[22/Apr/2018:23:32:58] ENGINE Bus EXITED
+[22/Apr/2018:23:32:58] ENGINE Bus STOPPED
+[22/Apr/2018:23:32:58] ENGINE Bus EXITING
+[22/Apr/2018:23:32:58] ENGINE Bus EXITED
+[22/Apr/2018:23:39:28] ENGINE Bus STARTING
+[22/Apr/2018:23:39:28] ENGINE Started monitor thread 'Autoreloader'.
+[22/Apr/2018:23:39:28] ENGINE Serving on http://127.0.0.1:8090
+[22/Apr/2018:23:39:28] ENGINE Bus STARTED
+[22/Apr/2018:23:45:46] ENGINE Bus STOPPING
+[22/Apr/2018:23:45:46] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8090)) shut down
+[22/Apr/2018:23:45:46] ENGINE Stopped thread 'Autoreloader'.
+[22/Apr/2018:23:45:46] ENGINE Bus STOPPED
+[22/Apr/2018:23:45:46] ENGINE Bus EXITING
+[22/Apr/2018:23:45:46] ENGINE Bus EXITED
+[22/Apr/2018:23:45:51] ENGINE Bus STARTING
+[22/Apr/2018:23:45:51] ENGINE Started monitor thread 'Autoreloader'.
+[22/Apr/2018:23:45:51] ENGINE Serving on http://127.0.0.1:8090
+[22/Apr/2018:23:45:51] ENGINE Bus STARTED
+[22/Apr/2018:23:57:02] ENGINE Bus STOPPING
+[22/Apr/2018:23:57:02] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8090)) shut down
+[22/Apr/2018:23:57:02] ENGINE Stopped thread 'Autoreloader'.
+[22/Apr/2018:23:57:02] ENGINE Bus STOPPED
+[22/Apr/2018:23:57:02] ENGINE Bus EXITING
+[22/Apr/2018:23:57:02] ENGINE Bus EXITED
+[22/Apr/2018:23:57:10] ENGINE Bus STARTING
+[22/Apr/2018:23:57:10] ENGINE Started monitor thread 'Autoreloader'.
+[22/Apr/2018:23:57:11] ENGINE Serving on http://127.0.0.1:8090
+[22/Apr/2018:23:57:11] ENGINE Bus STARTED
+[23/Apr/2018:00:05:02] ENGINE Bus STOPPING
+[23/Apr/2018:00:05:02] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8090)) shut down
+[23/Apr/2018:00:05:02] ENGINE Stopped thread 'Autoreloader'.
+[23/Apr/2018:00:05:02] ENGINE Bus STOPPED
+[23/Apr/2018:00:05:02] ENGINE Bus EXITING
+[23/Apr/2018:00:05:02] ENGINE Bus EXITED
+[23/Apr/2018:00:05:30] ENGINE Bus STARTING
+[23/Apr/2018:00:05:30] ENGINE Started monitor thread 'Autoreloader'.
+[23/Apr/2018:00:05:30] ENGINE Serving on http://127.0.0.1:8090
+[23/Apr/2018:00:05:30] ENGINE Bus STARTED

@@ -1,11 +1,29 @@
+import hashlib
 import cherrypy, logging
 from controllers.base import BaseController
+from jinja2 import Environment, FileSystemLoader
+env = Environment(loader=FileSystemLoader('templates'))
 
-class LoginPageController(BaseController):
+class DashboardController(BaseController):
     @cherrypy.expose
-    def lpf(self, **kwargs):
-        from processes import test
-        response_ = test.red()
-        response_ = response_._get_red(logging)
-        logging.info(str(response_))
-        return str(response_)
+    def dashboard(self):
+        return self.render_template()
+
+class LoginController(BaseController):
+	"""docstring for LoginController"""
+	@cherrypy.expose
+	def login(self):
+		return self.render_template()
+
+class ForgotPController(BaseController):
+	"""docstring for LoginController"""
+	@cherrypy.expose
+	def forgot_password(self):
+		return self.render_template()
+
+class RegisterController(BaseController):
+	"""docstring for LoginController"""
+	@cherrypy.expose
+	def register(self):
+		return self.render_template()
+		
